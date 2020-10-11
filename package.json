@@ -1,0 +1,12 @@
+{
+  "name": "ucsd-sd-fsf-ft-08-2020-u-c-master-11-express-02-Homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
